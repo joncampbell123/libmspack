@@ -47,5 +47,5 @@ AC_SYS_LARGEFILE
 AC_FUNC_FSEEKO
 
 # Checks for library functions.
-AC_CONFIG_FILES([Makefile doc/Makefile doc/Doxyfile libmspack.pc])
+AC_CONFIG_FILES([Makefile libmspack.pc])
 AC_OUTPUT

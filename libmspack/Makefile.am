@@ -1,5 +1,5 @@
 AUTOMAKE_OPTIONS =	subdir-objects
-EXTRA_DIST =		$(srcdir)/debian/* $(srcdir)/doc/* $(srcdir)/test/test_files/*/*
+EXTRA_DIST =		$(srcdir)/debian/* $(srcdir)/test/test_files/*/*
 pkgconfigdir =		$(libdir)/pkgconfig
 pkgconfig_DATA = 	libmspack.pc
 
